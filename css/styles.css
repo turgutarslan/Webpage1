@@ -1,0 +1,235 @@
+.Header {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.12);
+  background-color: #fff;
+  Height: 90px;
+  width: 1920px;
+}
+.Header-Container {
+  display: flex;
+  Padding-top: 28px;
+  width: 1920px;
+}
+.Header-Logocon {
+  display: flex;
+
+}
+
+.Header-loges {
+  display: flex;
+  width: 42px;
+  height: 42px;
+  margin-left: 200px;
+}
+
+.logo1 {
+  display: flex;
+  width: 60px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 6px;
+  font-family: 'Gilroy-Bold', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.8;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+
+.Header-Profile {
+  display: flex;
+  text-align: right;
+  margin-left: 1235px;
+  justify-content: center;
+}
+.Header-Proset {
+  width: 48px;
+  height: 48px;
+  background-color: #f5f7f8;
+}
+.Header-Proyazi {
+  margin-left: 15px;
+  padding-top: 15px;
+  font-family: 'Inter', sans-serif;;
+}
+
+.Header-Selection {
+  margin-left: 17px;
+  margin-top: 12px;
+  width: 24px;
+  height: 24px;
+  border: none;
+
+}
+
+.ContainerTop {
+ width: 1920px;
+ height: 400px; 
+}
+
+.proimg {
+ Border-radius: 100%;
+ width: 200px;
+ height: 200px;
+ margin: -100px 860px 0px ;
+}
+.yazi {
+  width: 200px;
+  height: 30px;
+  margin: 26px 887px 0px 858px;
+  font-family: 'Inter', sans-serif;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.twitch {
+  width: 54px;
+  height: 54px;
+  margin: 15px 933px 50px;
+  border-radius: 100%;
+  background-color: #fff;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.satir1 {
+  display: flex;
+}
+.satir1-yazi2 {
+  width: 226px;
+  height: 24px;
+  margin: 19px 0px 50px 297px;
+  font-family: 'Inter', sans-serif; 
+  font-size: 24px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.83;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
+.searchbox {
+  width: 350px;
+  height: 54px;
+  margin: 19px 0px 0px 200px;
+  padding-left: 10px;
+  border-radius: 6px;
+  border: solid 1px #d2dae3;
+  background-color: #f5f7f8;
+  
+}
+.searchbox2 {
+  width: 350px;
+  height: 54px;
+  margin: 19px 0px 0px 297px;
+  padding-left: 10px;
+  border-radius: 6px;
+  border: solid 1px #d2dae3;
+  background-color: #f5f7f8;
+}
+.grid-container {
+  width: 1520px;
+  margin-top: 20px;
+  margin-left: 200px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #fff;
+  column-gap: 40px;
+  row-gap: 40px;
+}
+.grid-item {
+  width: 350px;
+  height: 262px;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #fff;
+}
+
+.card_image {
+  padding: 10px 10px 0 10px;
+}
+
+img {
+  height: 180px;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.card_content {
+  display: flex;
+}
+.cardbtn {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+  background-color: #fff;
+  stroke: currentColor;
+  fill: currentColor;
+
+}
+.card_title {
+  height: 16px;
+  margin-top: 30px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-family: 'Inter', sans-serif; 
+  
+}
+.icon {
+  padding-top: 3px;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  background-color: #fff;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+
+.icon1 {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.icon2 {
+  margin-left: -5px;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  background-color: #f5f7f8;
+  stroke: currentColor;
+  fill: currentColor;
+}
+.icon3 {
+  margin-top: 26px;
+  margin-left: -45px;
+  width: 3em;
+  height: 3em;
+  stroke-width: 0;
+  border: none;
+  background-color: #f5f7f8;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+
+
+
+
+
+.footer {
+  height: 200px;
+}
