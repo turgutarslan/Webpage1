@@ -11,6 +11,7 @@
 }
 .Header-Logocon {
   display: flex;
+  margin-top: -8px;
 
 }
 
@@ -43,6 +44,7 @@
   text-align: right;
   margin-left: 1235px;
   justify-content: center;
+  margin-top: -8px;
 }
 .Header-Proset {
   width: 48px;
